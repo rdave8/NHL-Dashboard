@@ -1,3 +1,5 @@
+// This page is not accessible; The user will be redirected to the 2023-2024 season page.
+
 "use server"
 
 import { Team, columns } from "../components/teams-table/columns"
